@@ -1,0 +1,10 @@
+spring:
+  data:
+    mongodb:
+      port: 27018
+      host: localhost
+      username: rootuser
+      authentication-database: admin
+      password: rootpass
+      database: amigoscode
+      auto-index-creation: true
